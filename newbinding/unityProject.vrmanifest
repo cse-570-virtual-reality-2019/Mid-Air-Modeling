@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vr_project_monday_1st.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\vipul16117\\Desktop\\newbinding\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "newbinding [Testing]"
+        }
+      }
+    }
+  ]
+}
